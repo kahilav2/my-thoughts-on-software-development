@@ -31,7 +31,7 @@ Over-engineering and under-engineering are endless sources of debate in any soft
 ##### 3.1 Challenges in Communication
 Effectively arguing with other developers about the right level of engineering is often not straightforward either. How we conclude the right level of engineering involves our previous experiences, programming philosophic values, capacity for abstract, analytic and reflective thinking, our level of intellectual humility, etc. and it can easily be derailed by a momentary lapse in thinking, our personal biases or elephants steering our thoughts ([1]), personal benefits we might get from certain decisions, and something as simple as disinterest in work. And since many big decisions are usually made in collaboration with others, lacking communication skills can also hinder our ability to reach a good solution.
 
-<sub><sup>[1] as Jonathan Haidt describes in "The Happiness Hypothesis", where our emotional and intuitive "elephant" guides our rational "rider", causing us to justify and rationalize the elephant's decisions after the fact</sub></sup>
+<sub>[1] as Jonathan Haidt describes in "The Happiness Hypothesis", where our emotional and intuitive "elephant" guides our rational "rider", causing us to justify and rationalize the elephant's decisions after the fact</sub>
 
 ##### 3.2 Ever-changing Business Environments
 It's also worth noting that the required level of engineering may change over time as the project matures and business requirements evolve. For this reason, an often effective strategy is to initially keep systems small and simple, allowing for fast rewrites or added complexity as we gradually gain more confidence in our business goals.
