@@ -11,7 +11,7 @@ Keeping applications simple helps manage overall project complexity. It makes it
 Taking technical debt isn't inherently bad, instead it can be a great strategy, but knowing when to take it as well as managing it can be complex and where mistakes are often made. 
 
 ##### 1.3 Technical Debt in "Leaf Node" Applications
-Technical debt is more acceptable for less critical "leaf node" applications that other systems don't heavily rely on. Complete rewrites are easier due to typically smaller scope and less dependencies. Also there is the possibility that after initial launch, a leaf node application does not need much modification or maintenance.
+Technical debt is more acceptable for less critical "leaf node" applications that other systems don't heavily rely on. Refactorings and even complete rewrites are easier due to the typically smaller scope and fewer dependencies. Also there is the possibility that after initial launch, a leaf node application does not need much modification or maintenance.
 
 ##### 1.4 Technical Debt in Core Systems
 For core systems, we should always be aware of technical debt and, if possible, make small improvements early and often before it grows uncontrollably. When there's a significant amount of technical debt in a system and new development is done, that new code likely needs to adjust to the existing technical debt. This leads to further accumulation of technical debt, making development time-consuming and difficult. In many cases, the costs of technical debt slowdown will quickly outweigh the costs of taking time for small, early refactors. We need to strike a balance between addressing technical debt and delivering new features.
